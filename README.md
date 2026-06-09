@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Pranav Sankar
 
-<!--
-**PranavSankarPS/PranavSankarPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps & Cloud Engineer transitioning from Telecom Engineering.
 
-Here are some ideas to get you started:
+AWS Certified Solutions Architect Associate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## DevOps Projects
+
+### Flask CI/CD Pipeline
+Dockerized Flask application with GitHub Actions CI pipeline.
+
+### Kubernetes Deployment Project
+Currently building...
+
+## Tech Stack
+
+- Linux
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Python
+- Jenkins
+- Terraform
+
+## Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/pranavsankarps/
+
+
