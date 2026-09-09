@@ -10,6 +10,7 @@ AWS Certified Solutions Architect Associate
 An end-to-end DevOps project demonstrating modern application deployment, automation, container orchestration, and monitoring.
 
 Features
+
 Dockerized Flask application
 GitHub Actions CI/CD pipeline
 Kubernetes Deployment & Service
@@ -27,11 +28,12 @@ Repository
 
 👉 https://github.com/PranavSankarPS/flask-cicd-helm-kubernetes
 
-###☁️ AWS Terraform Infrastructure
+### AWS Terraform Infrastructure
 
 Infrastructure as Code (IaC) project built using reusable Terraform modules.
 
 Features
+
 Modular Terraform architecture
 Custom VPC
 Public Subnets
@@ -40,15 +42,14 @@ Route Tables
 Security Groups
 EC2 Module
 Reusable Infrastructure Design
-Tech Used
 
+Tech Used
 Terraform • AWS • VPC • EC2 • Git
 
 Repository
-
 👉 https://github.com/PranavSankarPS/aws-terraform-infrastructure
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Cloud
 AWS
 Infrastructure as Code
